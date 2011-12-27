@@ -2,4 +2,4 @@ Subscribe
 =========
 
 Usage:
-    subscribe(publisherId, callback)
+    CleengApi.subscribe(publisherId, callback);

@@ -2,9 +2,11 @@ login
 =====
 
 usage: 
-    login(callback);
+    CleengApi.login(callback);
 
 Opens popup window prompting customer to login to Cleeng platform.
+
+### Example
 
     CleengApi.login(function(result) {
         if (result.success) {
