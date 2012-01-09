@@ -1,8 +1,8 @@
-publisherLogIn
+publisherLogin
 ==============
 
 Usage:
-    CleengApi.publisherLogIn(appSecureKey, callback);
+    CleengApi.publisherLogin(appSecureKey, callback);
 
 Opens popup window prompting publisher to login to Cleeng platform. After completing this process user will
 receive access token that will give him rights to call Publisher API functions.
