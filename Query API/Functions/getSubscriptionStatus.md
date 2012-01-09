@@ -34,3 +34,4 @@ Response:
         }
     }
 
+[Back to Query API](wiki/Reference/Query%20API)

@@ -51,3 +51,6 @@ Response:
     CleengApi.getItemOffer(123123123, function(itemOffer) {
         alert('Item description: ' + itemOffer.description);
     });
+
+
+[Back to Query API](wiki/Reference/Query%20API)

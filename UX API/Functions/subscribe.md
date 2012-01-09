@@ -12,3 +12,5 @@ Usage:
     CleengApi.subscribe(123123123, function(result) {
 
     });
+
+[Back to UX API](wiki/Reference/UX%20API)

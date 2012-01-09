@@ -19,3 +19,5 @@ he will be prompted to do so.
             alert('Thank you for buying this item!');
         }
     });
+
+[Back to UX API](wiki/Reference/UX%20API)

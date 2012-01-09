@@ -57,3 +57,5 @@ Response:
             "publisherAccess":false
         }
     }
+
+[Back to Query API](wiki/Reference/Query%20API)

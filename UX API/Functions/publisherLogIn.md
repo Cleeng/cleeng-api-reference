@@ -15,3 +15,5 @@ If user is does not have publisher account yet, he will be prompted to fill in "
             alert('You are now allowed to use publisher API. Your access token is ' + result.token + ' - keep it safe!');
         }
     });
+
+[Back to UX API](wiki/Reference/UX%20API)

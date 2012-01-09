@@ -30,3 +30,6 @@ Response:
             "socialCommissionUrl":"http://cleeng.it/kXpd2Q"
         }
     }
+
+
+[Back to Query API](wiki/Reference/Query%20API)

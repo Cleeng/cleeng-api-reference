@@ -13,3 +13,5 @@ Opens popup window prompting customer to login to Cleeng platform.
             alert('You successfuly logged in to Cleeng Platform. Your access token is ' + result.token);
         }
     });
+
+[Back to UX API](wiki/Reference/UX%20API)

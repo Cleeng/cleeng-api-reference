@@ -34,3 +34,5 @@ To understand above, see following example:
         alert('This alert box will appear after finishing purchase.');
     });
     alert('This alert box will appear together with purchase popup window!');
+
+[Back to UX API](wiki/Reference/UX%20API)

@@ -1,4 +1,0 @@
-updateItemOffer()
-=================
-
-#### JSON-RPC example
