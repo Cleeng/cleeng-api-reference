@@ -7,4 +7,4 @@ JSON-RPC: http://jsonrpc.org/spec.html
 
 JSONP: http://en.wikipedia.org/wiki/JSONP
 
-[Back to Table Of Contents](wiki/Reference)
+[Back to Table Of Contents](Reference)

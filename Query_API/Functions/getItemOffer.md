@@ -53,4 +53,4 @@ Response:
     });
 
 
-[Back to Query API](wiki/Reference/Query%20API)
+[Back to Query API](Reference/Query_API)

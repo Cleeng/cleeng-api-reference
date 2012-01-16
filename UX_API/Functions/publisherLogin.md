@@ -16,4 +16,4 @@ If user is does not have publisher account yet, he will be prompted to fill in "
         }
     });
 
-[Back to UX API](wiki/Reference/UX%20API)
+[Back to UX API](Reference/UX_API)

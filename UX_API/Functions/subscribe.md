@@ -13,4 +13,4 @@ Usage:
 
     });
 
-[Back to UX API](wiki/Reference/UX%20API)
+[Back to UX API](Reference/UX_API)
