@@ -7,9 +7,8 @@ List of API methods
 -------------------
 
 1. Function Reference
-    1. [createItemOffer](Reference/Publisher%20API/Functions/createItemOffer)
-    2. [findItemOffers](Reference/Publisher%20API/Functions/findItemOffers)
-    3. [removeItemOffer](Reference/Publisher%20API/Functions/removeItemOffer)
-    4. [updateItemOffer](Reference/Publisher%20API/Functions/updateItemOffer)
+    1. [createItemOffer](Reference/Publisher_API/Functions/createItemOffer)
+    2. [removeItemOffer](Reference/Publisher_API/Functions/removeItemOffer)
+    3. [updateItemOffer](Reference/Publisher_API/Functions/updateItemOffer)
 
 [Back to Table Of Contents](Reference)

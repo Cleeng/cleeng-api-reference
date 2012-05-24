@@ -1,6 +1,10 @@
 createItemOffer()
 =================
 
+Creates item offer on Cleeng Platform.
+
+Before any digital good can be sold with Cleeng, it must be registered in our database using this function.
+
 #### JSON-RPC example
 
 Request:
@@ -52,8 +56,5 @@ Response:
         }
     }
 
-
-
-- add info about "read-only" properties
 
 [Back to Publisher API](Reference/Publisher_API)

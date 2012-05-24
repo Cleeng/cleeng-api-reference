@@ -3,9 +3,8 @@
 2. [Publisher API](Reference/Publisher_API)
     1. Function Reference
         1. [createItemOffer](Reference/Publisher_API/Functions/createItemOffer)
-        2. [findItemOffers](Reference/Publisher_API/Functions/findItemOffers)
-        3. [removeItemOffer](Reference/Publisher_API/Functions/removeItemOffer)
-        4. [updateItemOffer](Reference/Publisher_API/Functions/updateItemOffer)
+        2. [removeItemOffer](Reference/Publisher_API/Functions/removeItemOffer)
+        3. [updateItemOffer](Reference/Publisher_API/Functions/updateItemOffer)
 
 3. [Query API](Reference/Query_API)
     1. Function Reference
