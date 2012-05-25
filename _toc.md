@@ -21,4 +21,5 @@
         3. [login](Reference/UX_API/Functions/login)
         4. [publisherLogin](Reference/UX_API/Functions/publisherLogin)
         5. [purchase](Reference/UX_API/Functions/purchase)
-        6. [subscribe](Reference/UX_API/Functions/subscribe)
+        6. [rateItemOffer](Reference/UX_API/Functions/rateItemOffer)
+        7. [subscribe](Reference/UX_API/Functions/subscribe)
