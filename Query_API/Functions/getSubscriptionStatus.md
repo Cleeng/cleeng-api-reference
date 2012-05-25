@@ -10,7 +10,7 @@ similar to getAccessStatus, but will
 
 Request:
 
-    ```js
+    ```javascript
     {
         "jsonrpc":"2.0",
         "id":1,
@@ -24,7 +24,7 @@ Request:
 
 Response:
 
-    ```js
+    ```javascript
     {
         "jsonrpc":"2.0",
         "id":"1",

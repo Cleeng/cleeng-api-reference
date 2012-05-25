@@ -8,6 +8,7 @@ Usage:
 
 Request:
 
+    ```javascript
     {
         "jsonrpc":"2.0",
         "id":1,
@@ -17,9 +18,11 @@ Request:
             "itemOfferId":123123123
         }
     }
+    ```
 
 Response:
 
+    ```javascript
     {
         "jsonrpc":"2.0",
         "id":"1",
@@ -30,6 +33,7 @@ Response:
             "socialCommissionUrl":"http://cleeng.it/kXpd2Q"
         }
     }
+    ```
 
 
 [Back to Query API](Reference/Query_API)

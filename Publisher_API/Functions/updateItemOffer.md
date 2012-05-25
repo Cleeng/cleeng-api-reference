@@ -9,6 +9,7 @@ Example that changes description and price.
 
 Request:
 
+    ```javascript
     {
         "jsonrpc":"2.0",
         "id":1,
@@ -22,11 +23,13 @@ Request:
             }
         },
     }
+    ```
 
 Response:
 
 When call is successful, all item offer properties are returned.
 
+    ```javascript
     {
         "jsonrpc":"2.0",
         "id":"1",
@@ -55,5 +58,6 @@ When call is successful, all item offer properties are returned.
             "myData": ""
         }
     }
+    ```
 
 [Back to Publisher API](Reference/Publisher_API)

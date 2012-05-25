@@ -30,6 +30,7 @@ properties:
 
 Request:
 
+    ```javascript
     {
         "jsonrpc":"2.0",
         "id":1,
@@ -38,10 +39,12 @@ Request:
             "token":"cZhBnXbXgaci17qyYAwImgxoV6gnj7-kfV-bmDhb6GxlFGSA"
         },
     }
+    ```
 
 
 Response:
 
+    ```javascript
     {
         "jsonrpc":"2.0",
         "id":"1",
@@ -57,5 +60,6 @@ Response:
             "publisherAccess":false
         }
     }
+    ```
 
 [Back to Query API](Reference/Query_API)

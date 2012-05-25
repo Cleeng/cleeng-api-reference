@@ -9,6 +9,7 @@ Before any digital good can be sold with Cleeng, it must be registered in our da
 
 Request:
 
+    ```javascript
     {
         "jsonrpc":"2.0",
         "id":1,
@@ -24,9 +25,11 @@ Request:
             }
         },
     }
+    ```
 
 Response:
 
+    ```javascript
     {
         "jsonrpc":"2.0",
         "id":"1",
@@ -55,6 +58,7 @@ Response:
             "myData": ""
         }
     }
+    ```
 
 
 [Back to Publisher API](Reference/Publisher_API)

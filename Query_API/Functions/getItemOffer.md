@@ -21,7 +21,6 @@ Request:
 
 Response:
 
-    ```javascript
     {
         "jsonrpc":"2.0",
         "id":"1",
@@ -47,7 +46,6 @@ Response:
             "averageRating":4,
         }
     }
-    ```
 
 
 #### JavaScript example
