@@ -10,6 +10,7 @@ similar to getAccessStatus, but will
 
 Request:
 
+    ```js
     {
         "jsonrpc":"2.0",
         "id":1,
@@ -19,9 +20,11 @@ Request:
             "publisherId":123123123
         }
     }
+    ```
 
 Response:
 
+    ```js
     {
         "jsonrpc":"2.0",
         "id":"1",
@@ -33,5 +36,6 @@ Response:
             "expirationDate":"2011-12-24 18:54"
         }
     }
+    ```
 
 [Back to Query API](Reference/Query_API)

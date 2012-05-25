@@ -8,6 +8,7 @@ Usage:
 
 Request:
 
+    ```javascript
     {
         "jsonrpc":"2.0",
         "id":1,
@@ -16,16 +17,18 @@ Request:
             "itemOfferId":123123123
         }
     }
+    ```
 
 Response:
 
+    ```javascript
     {
         "jsonrpc":"2.0",
         "id":"1",
         "error":null,
         "result":{
             "id":"123123123","
-            url":"http://your-site.com/view-item-here",
+            "url":"http://your-site.com/view-item-here",
             "pageTitle":"My Blog",
             "price":"0.0000",
             "publisherId":"328738825",
@@ -44,13 +47,16 @@ Response:
             "averageRating":4,
         }
     }
+    ```
 
 
 #### JavaScript example
 
+    ```javascript
     CleengApi.getItemOffer(123123123, function(itemOffer) {
         alert('Item description: ' + itemOffer.description);
     });
+    ```
 
 
 [Back to Query API](Reference/Query_API)

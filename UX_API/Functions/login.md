@@ -1,7 +1,8 @@
-login
-=====
+login()
+=======
 
-usage: 
+### Usage
+
     CleengApi.login(callback);
 
 Opens popup window prompting customer to login to Cleeng platform.

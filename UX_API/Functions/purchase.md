@@ -1,7 +1,8 @@
-Purchase
-========
+purchase()
+==========
 
-Usage:
+### Usage
+
     CleengApi.purchase(itemOfferId, callback);
 
 Opens popup window prompting customer to purchase offer with given ID. If user is not logged in at cleeng.com,

@@ -1,7 +1,8 @@
-publisherLogin
-==============
+publisherLogin()
+================
 
-Usage:
+### Usage
+
     CleengApi.publisherLogin(appSecureKey, callback);
 
 Opens popup window prompting publisher to login to Cleeng platform. After completing this process user will
@@ -20,7 +21,7 @@ be accessible after logging in to your main publisher account).
 Before calling publisherLogin(), you need to supply Application Id to `CleengApi.setAppId()` function (see
 example below).
 
-### Example:
+### Example
 
     CleengApi.setAppId('ZX0WOj8b0qthW3w5Cc9tHAoBvD928ctDNZElFlGXd640CDUA');
     CleengApi.publisherLogIn('cbsn-wYk4VM7JpHIMaHaFMukQYmFEY2de090xEL9Rz6X4xCb', function(result) {

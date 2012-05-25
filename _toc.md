@@ -16,7 +16,7 @@
 4. [UX API](Reference/UX_API)
     1. [Cleeng JavaScript Library](Reference/UX_API/Cleeng_JavaScript_Library)
     2. Function Reference
-        1. [autologin](Reference/UX_API/autologin)
+        1. [autologin](Reference/UX_API/Functions/autologin)
         2. [countItemOfferImpression](Reference/UX_API/Functions/countItemOfferImpression)
         3. [login](Reference/UX_API/Functions/login)
         4. [publisherLogin](Reference/UX_API/Functions/publisherLogin)
