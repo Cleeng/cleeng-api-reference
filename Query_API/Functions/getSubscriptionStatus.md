@@ -5,7 +5,7 @@ Usage:
   getSubscriptionStatus(token, publisherId)
 
 
-similar to getAccessStatus, but will
+Similar to getAccessStatus, but will return information about purchased subscription plan.
 
 
 Request:

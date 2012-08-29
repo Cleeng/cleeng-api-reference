@@ -10,8 +10,9 @@
     1. Function Reference
         1. [getAccessStatus](Reference/Query_API/Functions/getAccessStatus)
         2. [getItemOffer](Reference/Query_API/Functions/getItemOffer)
-        3. [getSubscriptionStatus](Reference/Query_API/Functions/getSubscriptionStatus)
-        4. [getUserInfo](Reference/Query_API/Functions/getUserInfo)
+        3. [getPublisherSubscriptions](Reference/Query_API/Functions/getPublisherSubscriptions)
+        4. [getSubscriptionStatus](Reference/Query_API/Functions/getSubscriptionStatus)
+        5. [getUserInfo](Reference/Query_API/Functions/getUserInfo)
 
 4. [UX API](Reference/UX_API)
     1. [Cleeng JavaScript Library](Reference/UX_API/Cleeng_JavaScript_Library)
