@@ -3,15 +3,7 @@ Cleeng JavaScript Library
 
 In order to be able to use Cleeng JavaScript API, you need to include following JS file in your HTML document:
 
-https://cleeng.com/js-api/2.0/api.js
-
-To use localized version, include files:
-
-https://cleeng.com/js-api/2.0/api.en_US.js   // this one is the same as api.js
-https://cleeng.com/js-api/2.0/api.fr_FR.js
-https://cleeng.com/js-api/2.0/api.nl_NL.js
-
-+ write about fallback to english
+    http://cdn.cleeng.com/js-api/2.0/api.js
 
 API is accessible with CleengApi class. It provides access to two different types of functionality:
 
